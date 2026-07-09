@@ -79,7 +79,7 @@ Built as a SwiftUI Multiplatform App.
 
 ## Project Goals
 
-### Version 0.1
+### Version 0.1 (Developing)
 
 - Device discovery
 - Device list UI
